@@ -293,8 +293,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Sanjay**
-- GitHub: [@yourusername](https://github.com/yourusername)
+**Teena**
+- GitHub: [@tinanyaupane](https://github.com/tinanyaupane)
 
 ---
 
