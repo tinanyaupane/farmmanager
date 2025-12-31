@@ -1,0 +1,17 @@
+<!-- Placeholder SVG saved with .jpg extension. Replace with an actual JPG image when ready. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <defs>
+    <linearGradient id="g" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#7ec850"/>
+      <stop offset="100%" stop-color="#3b8b3b"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="#87ceeb"/>
+  <rect y="450" width="100%" height="450" fill="url(#g)"/>
+  <g transform="translate(140,360)">
+    <rect x="420" y="40" width="300" height="220" fill="#c0392b" stroke="#700" stroke-width="4" rx="8"/>
+    <polygon points="420,40 570,0 720,40" fill="#a63122"/>
+    <rect x="540" y="130" width="40" height="50" fill="#fff"/>
+  </g>
+  <text x="80" y="140" font-family="Arial" font-size="48" fill="#fff">Farm Manager — Placeholder</text>
+</svg>
